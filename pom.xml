@@ -103,7 +103,7 @@
                             <goal>unpack-dependencies</goal>
                         </goals>
                         <configuration>
-                            <includes>**/webjars/*</includes>
+                            <includes>**/webjars/**</includes>
                         </configuration>
                     </execution>
                 </executions>
